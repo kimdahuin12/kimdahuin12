@@ -1,5 +1,6 @@
 <h1>:fire:</h1>
 PYPYP:trollface:
+:kr:
 <!--
 **kimdahuin12/kimdahuin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
