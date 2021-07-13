@@ -1,7 +1,4 @@
-# :fire: PYPYPY
-이름 | 김다흰| PY   |H1   |
------|-------|------|-----|
-나이 | 18    |:fire:| piya|
+# piya
 <!--
 **kimdahuin12/kimdahuin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
