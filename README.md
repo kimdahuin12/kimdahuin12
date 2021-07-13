@@ -1,6 +1,7 @@
 # :fire: PYPYPY
-- [ ] ee **중요**
-- [ ] ㅇㄹㅇ
+이름 | 나이
+-----------
+다흰 | 18
 <!--
 **kimdahuin12/kimdahuin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
